@@ -1,23 +1,23 @@
-# start-opensource
+# first-contribution
 
 ## ⭐ HOW TO MAKE A PULL REQUEST:
 
-**1.** Start by making a Fork of the [**start-opensource**](https://github.com/thecyberworld/start-opensource) repository. Click on the <a href="https://github.com/thecyberworld/start-opensource/fork"><img src="https://i.imgur.com/G4z1kEe.png" height="21" width="21"></a>Fork symbol at the top right corner.
+**1.** Start by making a Fork of the [**first-contribution**](https://github.com/thecyberworld/first-contribution) repository. Click on the <a href="https://github.com/thecyberworld/first-contribution/fork"><img src="https://i.imgur.com/G4z1kEe.png" height="21" width="21"></a>Fork symbol at the top right corner.
 
 **2.** Clone your new fork of the repository in the terminal/CLI on your computer with the following command:
 ```bash
-git clone https://github.com/<your-github-username>/start-opensource
+git clone https://github.com/<your-github-username>/first-contribution
 ```
 
-**3.** Navigate to the newly created start-opensource project directory:
+**3.** Navigate to the newly created first-contribution project directory:
 ```bash
-cd start-opensource
+cd first-contribution
 ```
 
 **4.** Set upstream command:
 
 ```bash
-git remote add upstream https://github.com/thecyberworld/start-opensource.git
+git remote add upstream https://github.com/thecyberworld/first-contribution.git
 ```
 
 **5.** Create a new branch:
@@ -69,9 +69,9 @@ git push origin YourBranchName
 
 **10.** Create a [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)!
 
-**11.** **Congratulations!** You've made your first contribution to [**start-opensource**](https://github.com/thecyberworld/start-opensource/graphs/contributors)! 🙌🏼
+**11.** **Congratulations!** You've made your first contribution to [**first-contribution**](https://github.com/thecyberworld/first-contribution/graphs/contributors)! 🙌🏼
 
-**_:trophy: After this, the maintainers will review the PR and will merge it if it helps move the start-opensource project forward. Otherwise, it will be given constructive feedback and suggestions for the changes needed to add the PR to the codebase._**
+**_:trophy: After this, the maintainers will review the PR and will merge it if it helps move the first-contribution project forward. Otherwise, it will be given constructive feedback and suggestions for the changes needed to add the PR to the codebase._**
 
 ---
 
